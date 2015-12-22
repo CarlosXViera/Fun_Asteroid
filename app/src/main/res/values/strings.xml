@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Deep Space</string>
+    <string name="action_settings">Settings</string>
+    <string name="scores">Scores</string>
+    <string name="playGame">Play Game</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="instructions">Instruction</string>
+    <string name="title_activity_instruction">Instruction</string>
+    <string name="instructions_details">1. Tilt the device left and right to move the ship.\n\n2.Tap the screen to shoot lasers.\n\n3. Shoot as many asteroids as you possibly can.\n\n4.Make sure you don\'t get hit or you will lose life points!\n\n5.The longer you go the higher the points!\n\nEnjoy!
+    </string>
+    <string name="title">Deep Space</string>
+    <string name="facebook_app_id">203133023360992</string>
+    <string name="saved_high_score" />
+    <string name="credits">Asteroids Images - Motosume \(Deviant Art\)\nBackgrounds - Frostbo\(Deviant Art\)\nShip Rendering - Millionth\nFireball - Creative Commons\nMusic and Effects - Looperman</string>
+</resources>

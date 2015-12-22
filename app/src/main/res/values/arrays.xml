@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="asteroids_images">
+        <item>@drawable/a1</item>
+        <item>@drawable/a2</item>
+        <item>@drawable/a3</item>
+        <item>@drawable/a4</item>
+        <item>@drawable/a5</item>
+        <item>@drawable/a6</item>
+        <item>@drawable/a7</item>
+    </array>
+    <array name="health">
+        <item>@drawable/tmp_0</item>
+        <item>@drawable/tmp_1</item>
+        <item>@drawable/tmp_2</item>
+        <item>@drawable/tmp_3</item>
+        <item>@drawable/tmp_4</item>
+        <item>@drawable/tmp_5</item>
+        <item>@drawable/tmp_6</item>
+        <item>@drawable/tmp_7</item>
+        <item>@drawable/tmp_8</item>
+        <item>@drawable/tmp_9</item>
+    </array>
+
+</resources>
